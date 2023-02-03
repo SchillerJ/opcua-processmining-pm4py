@@ -1,0 +1,7 @@
+# OPCUA Mining
+# Die CSV-Datensätze beinhalten die, wie in der schriftichen Arbeit beschriebenen, bearbeiteten Daten für jede Anlage
+# Code aus dem Prototypen wurde nicht gelöscht, falls Future Work möglicherweise die Integration von OPCUA und MQTT vorsieht.
+# Wesentliche Änderungen durchgeführt in probe.py und flow_table.py. Neu angelegt wurden opcua_record.py und opcua_mining.py
+# In Directory navigieren und über cmd-line (z.B. Anaconda Prompt) starten:
+					 python probe.py -i ututn7 -c 127.0.0.1 -p 1883 -iot opcua
+
