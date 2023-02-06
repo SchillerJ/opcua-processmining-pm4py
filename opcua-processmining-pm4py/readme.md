@@ -1,4 +1,4 @@
-# OPCUA Mining
+# opcua-processmining-pm4py
 # Die CSV-Datensätze beinhalten die bearbeiteten Daten für jede Anlage (wie in der schriftichen Arbeit beschrieben) und wurden in der Zip-Datei zusammen mit der Batchdatei abgegeben.
 # Code aus dem Prototypen wurde nicht gelöscht, falls Future Work möglicherweise die Integration von OPCUA und MQTT vorsieht.
 # Wesentliche Änderungen durchgeführt in probe.py und flow_table.py. Neu angelegt wurden opcua_record.py und opcua_mining.py
